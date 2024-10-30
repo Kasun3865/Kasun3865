@@ -26,7 +26,7 @@ I'm a passionate software developer and graphic designer currently diving deep i
 
 ### 📌 Current Projects
 
-- * Mental health care app
+- *Mental health care app*
 - *E-commerce App*: 
 
 ---
