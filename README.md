@@ -17,7 +17,7 @@
 <td width="50%" align="left">
 - 🌱 I’m currently learning React Js
 
-- 👨‍💻 All of my projects are available at [https://kasunsanjeewa.netlify.app](https://kasunsanjeewa.netlify.app)
+- 👨‍💻 All of my projects are available at [https://kasunsanjeewa.vercel.app/](https://kasunsanjeewa.vercel.app/)
 
 - 💬 Ask me about **Java**
 </td>
