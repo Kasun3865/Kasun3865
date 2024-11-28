@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kasun Sanjeewa!;" />
+    <img src="https://media.licdn.com/dms/image/v2/D4D16AQGRzJFmT87Xow/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1686124164388?e=2147483647&v=beta&t=q5oH6jlNRAJYpUKhreHisj809-aUA7xDsXGhjZiwcZA" />
 </h1>
 <h3 align="center">Full Stack Web Developer | UI/UX Designer | Graphic Designer |  Tech Enthusiast</h3>
 
