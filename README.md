@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kasunsanjeewa.vercel.app/](https://kasunsanjeewa.vercel.app/)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Javascript**
 </td>
 <td width="50%" align="center">
 
